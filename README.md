@@ -41,7 +41,7 @@ not connected | 3.3V, FTM & XMT
 
 Soldering | Wiring
 :-: | :-:
-![PCM5102A soldering](images/PCM5102A soldering.jpg) | ![PCM5102A wiring](images/PCM5102A wiring.jpg)
+![PCM5102A soldering](images/PCM5102A_soldering.jpg) | ![PCM5102A wiring](images/PCM5102A_wiring.jpg)
 
 
 
@@ -59,7 +59,7 @@ pin 17 | RES
 pin 5 | DC
 pin 18 | CS
 
-![SSD1306 wiring](images/SSD1306 wiring.jpg)
+![SSD1306 wiring](images/SSD1306_wiring.jpg)
 
 
 
